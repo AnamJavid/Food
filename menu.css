@@ -1,0 +1,9 @@
+#menu{background-image:url("https://previews.123rf.com/images/midnightboheme/midnightboheme2002/midnightboheme200200173/161263198-graphic-background-texture-menu-design-for-restaurant-bar-lounge-cafe-dining-establishment-food-or-b.jpg");background-size: cover;}
+ol li{color:brown;text-align: center;font-size: 30px;font-family:Tangerine;}
+.navbar{font-family: tangerine;color: purple;background-color: lavenderblush;font-size: 25px;}
+.nav{list-style-type: none;margin: 0;padding: 0;overflow: hidden;} li a{ display:block;text-decoration:none;color: purple;padding: 13px 15px;font-size:30px; }
+
+h1{color: darkgreen;background-color:beige;text-align: center;font-family: Tangerine;font-size: 50px;
+  }
+.a{float:left;}
+li a:hover{background-color:pink;}

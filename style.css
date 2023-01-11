@@ -1,0 +1,11 @@
+.navbar{font-family: Tangerine;color: purple;background-color: lavenderblush;font-size: 25px;}
+ul{list-style-type: none;margin: 0;padding: 0;overflow: hidden;}
+li a{
+  display:block;text-decoration:none;color: purple;padding: 13px 15px;font-size:30px;
+}
+h1{background-color:lavenderblush;color: darkmagenta;font-family: tangerine;font-size: 50px;text-align: center;font-style:bold}
+li{float: left;}
+li a:hover{background-color:pink;}
+p{color:darkmagenta;font-size:30px;font-family:Tangerine;}
+#food{background-image:url("https://thumbs.dreamstime.com/b/greek-food-background-traditional-different-greek-dishes-set-greek-food-background-traditional-different-greek-dishes-set-top-view-178761927.jpg");background-size:cover;margin:20px;padding:10px;
+     }

@@ -1,0 +1,9 @@
+body{background-color:lightcyan;color:#506286}
+h1{background-color:#d8d6f0;color: #585077;font-family: Tangerine;font-size: 50px;border: 4px solid #a69fc6;text-decoration: underline;padding: 10px;margin: 10px;
+   text-align:center;}
+p{background-color: #e7f3f1;color: #699185;font-family: Tangerine;font-size: 33px;}
+img{border: 5px solid #699185;padding: 10px;margin: 10px;}
+h3{color: #a1687f;background-color: #ecdadd;font-family: Tangerine;text-align:center;font-size: 40px;}
+.navbar{font-family: tangerine;color: purple;background-color: lavenderblush;font-size: 25px;} ul{list-style-type: none;margin: 0;padding: 0;overflow: hidden;} li a{ display:block;text-decoration:none;color: purple;padding: 13px 15px;font-size:30px; }
+li{float: left;}
+li a:hover{background-color:pink;}

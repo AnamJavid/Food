@@ -1,0 +1,8 @@
+fieldset{background-color: #e5d7e5;color:#934d8a;border:3px solid #8c5f77;margin-top: 20px;}
+label{color:#4b3e7a;font-family: Tangerine;font-size: 25px;}
+body{background-color: #d9e5f2;color:#6a8daf ;}
+h1{text-align:center;background-color:#e1f5f9;color:#537d88;
+  font-family:Tangerine ;font-size: 40px;}
+.navbar{font-family: tangerine;color: purple;background-color: lavenderblush;font-size: 25px;} ul{list-style-type: none;margin: 0;padding: 0;overflow: hidden;} li a{ display:block;text-decoration:none;color: purple;padding: 13px 15px;font-size:30px; }
+li{float: left;}
+li a:hover{background-color:pink;}
